@@ -18,3 +18,11 @@ cd .\Perfectworld-VirtualBox-Conflict-Resolution-Tools\
 
 ## 免责声明
 若使用该工具导致完美世界对战平台无法启动或造成账号 VAC，作者概不负责，理论上还原之后再使用完美世界对战平台不会出现任何问题。
+
+## 测试
+修改后，VirtualBox 虚拟机正常启动。
+![a8845d72993ddcda4a2018bb16de1a05](https://github.com/user-attachments/assets/3a13f788-bbd7-4cd8-b6f1-84bfac0582b5)
+
+
+还原后，反作弊正常启动。
+![image](https://github.com/user-attachments/assets/d817bcab-3f1d-46eb-bf1f-34489a3b91fe)
