@@ -11,7 +11,7 @@
 ```shell
 git clone https://github.com/Smera1d0/Perfectworld-VirtualBox-Conflict-Resolution-Tools.git
 cd .\Perfectworld-VirtualBox-Conflict-Resolution-Tools\
-.\完美世界对战平台VirtualBox适配工具.exe
+.\perfectworld-vbox.exe
 ```
 然后选择完美世界竞技平台的 plugin 目录，通常在 `\perfectworldarena\plugin` 这个位置。
 ### 方法 2：
@@ -20,7 +20,7 @@ cd .\Perfectworld-VirtualBox-Conflict-Resolution-Tools\
 git clone https://github.com/Smera1d0/Perfectworld-VirtualBox-Conflict-Resolution-Tools.git
 cd .\Perfectworld-VirtualBox-Conflict-Resolution-Tools\
 pip3 install tkinter
-python3 完美世界对战平台VirtualBox适配工具.py
+python3 perfectworld-vbox.py
 ```
 ### 使用 VirtualBox 时
 选择 `修改`， **此操作需要重启电脑**，重启后即可正常使用 VirtualBox。
@@ -43,3 +43,7 @@ python3 完美世界对战平台VirtualBox适配工具.py
 还原后，反作弊正常启动。
 
 ![image](https://github.com/user-attachments/assets/d817bcab-3f1d-46eb-bf1f-34489a3b91fe)
+
+## 参考资料
+
+https://www.bilibili.com/opus/707671762850021424
