@@ -1,5 +1,10 @@
 # Perfectworld-VirtualBox-Conflict-Resolution-Tools
 用于解决安装完美世界对战平台后不能使用VirtualBox虚拟机或其他虚拟化平台的问题。
+## 界面预览
+
+![783918fa47c6c1e3c85e1cffcee4322f](https://github.com/user-attachments/assets/bdc0d0d7-93f3-4729-9934-f1014fb7e15d)
+
+
 ## 使用方法
 使用 `win键+R` 输入 `cmd` 打开命令行，执行下面的命令：
 ```shell
