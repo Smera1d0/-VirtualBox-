@@ -21,8 +21,10 @@ cd .\Perfectworld-VirtualBox-Conflict-Resolution-Tools\
 
 ## 测试
 修改后，VirtualBox 虚拟机正常启动。
+
 ![a8845d72993ddcda4a2018bb16de1a05](https://github.com/user-attachments/assets/3a13f788-bbd7-4cd8-b6f1-84bfac0582b5)
 
 
 还原后，反作弊正常启动。
+
 ![image](https://github.com/user-attachments/assets/d817bcab-3f1d-46eb-bf1f-34489a3b91fe)
