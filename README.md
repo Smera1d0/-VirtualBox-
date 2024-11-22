@@ -14,4 +14,7 @@ cd .\Perfectworld-VirtualBox-Conflict-Resolution-Tools\
 选择 `还原`， **此操作需要重启电脑**，重启后即可正常使用 完美世界对战平台。
 
 ## 原理
-通过修改完美世界对战平台 plugin 目录下的 `MessageTransfer.sys` 和 `MessageTransfer_x86.sys` 这两个文件的后缀名来实现，修改时，该脚本会在这两个文件后面添加 `.txt` 后缀名。
+通过修改完美世界对战平台 plugin 目录下的 `MessageTransfer.sys` 和 `MessageTransfer_x86.sys` 这两个文件的后缀名来实现，修改时，该脚本会在这两个文件后面添加 `.txt` 后缀名；还原时，删除 `.txt` 后缀名。
+
+## 免责声明
+若使用该工具导致完美世界对战平台无法启动或造成账号 VAC，作者概不负责，理论上还原之后再使用完美世界对战平台不会出现任何问题。
